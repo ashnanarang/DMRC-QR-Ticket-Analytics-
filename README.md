@@ -1,9 +1,9 @@
 # DMRC-QR-Ticket-Analytics-
 
 1. Overview
-An interactive Power BI dashboard built to analyze 4M+ DMRC QR ticket transactions generating 127.62M+ in revenue. The dashboard enables quick insights into passenger movement and revenue performance to support crowd management, peak-hour planning, and station-level revenue monitoring.
+- An interactive Power BI dashboard built to analyze 4M+ DMRC QR ticket transactions generating 127.62M+ in revenue. The       dashboard enables quick insights into passenger movement and revenue performance to support crowd management, peak-hour      planning, and station-level revenue monitoring.
 
-2. Tech Stack
+3. Tech Stack
 - Power BI — Data modeling, DAX measures, interactive visuals, dashboarding  
 - SQL — Data extraction, cleaning, transformations, aggregations
 - Excel — Initial profiling, validation, and quick checks  
