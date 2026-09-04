@@ -28,3 +28,5 @@
 - O-D Matrix
 - Peak Hours
 - Avg Money Spent
+
+Snapshot of the Dashboard - https://github.com/ashnanarang/DMRC-QR-Ticket-Analytics-/blob/main/Snapshot%20of%20the%20Dashboard.png
